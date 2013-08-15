@@ -1,3 +1,3 @@
-import subprocess
+import socket
 
-print "test"
+print "new socket attempt"
